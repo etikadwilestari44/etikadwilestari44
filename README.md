@@ -7,7 +7,7 @@
 
 ## Education:
 
-#### 1. Universitas Bengkulu | Bachelor of Informatics Engineering | Yogyakarta `2017-2022`
+#### 1. Universitas Bengkulu | Bachelor of Informatics Engineering | Bengkulu `2017-2022`
    - Asistant for Digital Image Processing
    - GPA 3.54/4.00
    - TOEFL Score 450
