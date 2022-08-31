@@ -11,6 +11,7 @@
    - Asistant for Digital Image Processing
    - GPA 3.54/4.00
    - TOEFL Score 450
+   - Final Project : Spatial Interpolation Long-term Pattern Capacity of Renewable Energy in Sumatera
 
 ## Work Experience:
 #### 1. KAMPUS MENGAJAR, SD NEGERI 3 PAGAR ALAM | IT Support| Pagar Alam `Aug 2021 - Dec 2021'
